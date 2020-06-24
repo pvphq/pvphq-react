@@ -1,11 +1,13 @@
 import React from "react";
+import TeamTour from "./TeamTour.js";
 import "../App.css";
-import "../Button.scss";
+import "../css/Button.scss";
 
 
 function Gyminfo() {
   return (
-    <div class="gyminfo-image">
+    <div>
+      <div class="gyminfo-image">
     <div class="gyminfo-text">
     <h1>
       <img src="../img/TOMB.png" alt=""/>
@@ -16,6 +18,12 @@ function Gyminfo() {
     <div className="button_cont" align="center"><a className="example_e" href="https://discord.gg/SVwJFE5" target="_blank" rel="nofollow noopener noreferrer">Join Discord</a></div>
 
       </div>
+    </div>
+    <h1 className="heading">▹ GYMS ◃</h1>
+    <div className="tourcard">
+    <TeamTour />
+    <TeamTour />
+    </div>
     </div>
   );
 }

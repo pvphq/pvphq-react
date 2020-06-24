@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import { findDOMNode } from "react-dom";
-import "../NavBar.scss";
+import "../css/NavBar.scss";
 
 class NavMenu extends Component {
   handleToggle = () => {
@@ -28,10 +28,10 @@ class NavMenu extends Component {
               <a href="/gyms-info">Gym League</a>
             </li>
             <li>
-              <a href="/tournaments">Tournaments</a>
+              <a href="/silphleague">Silph League</a>
             </li>
             <li>
-              <a href="#0">News</a>
+              <a href="#0">Battle Frontier</a>
             </li>
             <li>
               <a href="/about">
