@@ -12,8 +12,7 @@ function Gyminfo() {
     <h1>
       <img src="../img/TOMB.png" alt=""/>
     </h1>
-    <p>The Official PvP Server for Pokémon GO PvP in India! <br/> Join if you have the valor and skills to prove your worth and become the very best!</p>
-    <div className="button_cont" align="center"><a className="example_e" href="https://discord.gg/SVwJFE5" target="_blank" rel="nofollow noopener noreferrer">Challenge Gym</a></div>
+    <p>The first Gym League covering the cities of India! <br/> Join if you wanna be the very best, and defeat the Gym League!</p>
 
     <div className="button_cont" align="center"><a className="example_e" href="https://discord.gg/SVwJFE5" target="_blank" rel="nofollow noopener noreferrer">Join Discord</a></div>
 
@@ -21,7 +20,6 @@ function Gyminfo() {
     </div>
     <h1 className="heading">▹ GYMS ◃</h1>
     <div className="tourcard">
-    <TeamTour />
     <TeamTour />
     </div>
     </div>

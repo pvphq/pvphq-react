@@ -1,5 +1,5 @@
 import React from "react";
-import TeamTour from "../tom/TeamTour.js";
+import TeamTour4 from "../tournaments/TeamTour4.js";
 import "../App.css";
 import "../css/Button.scss";
 
@@ -22,7 +22,7 @@ function SilphLeague() {
     </div>
     <h1 className="heading">▹ TOURNAMENTS ◃</h1>
     <div className="tourcard">
-    <TeamTour />
+    <TeamTour4 />
     </div>
     </div>
   );

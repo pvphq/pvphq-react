@@ -56,7 +56,8 @@ h1 {
   }
   .wrapper {
     background-color: $white;
-    min-height: 340px;
+    border-radius: 20px;
+    min-height: 400px;
     position: relative;
     overflow: hidden;
     box-shadow: 0 19px 38px rgba($black, 0.3), 0 15px 12px rgba($black, 0.2);
@@ -96,10 +97,127 @@ h1 {
   }
 }
 
-.teamtour {
+.pyrogym {
   .wrapper {
-    background: url(https://tvseriescritic.files.wordpress.com/2016/10/stranger-things-bicycle-lights-children.jpg)
-      center / cover no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.74)),
+      url("/img/gyms/DelhiCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.fortgym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.767)),
+      url("/img/gyms/PuneCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.sinistergym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/gyms/MumbaiCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.eclipsegym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/gyms/KolkataCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.fluidmetgym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/gyms/AhmedabadCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.skyfortgym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/gyms/DehradunCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.alamosgym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/gyms/ChennaiCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.toxtricitygym {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/gyms/BengaluruCity.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.teamtourney {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/silph/1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0rem;
+  }
+}
+
+.battlefrontier {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/silph/4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0rem;
+  }
+}
+
+.catacomb {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/silph/2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0rem;
+  }
+}
+
+.aceelite {
+  .wrapper {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
+      url("/img/silph/3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0rem;
   }
 }
 // Second example styles
