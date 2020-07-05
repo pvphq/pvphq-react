@@ -31,7 +31,7 @@ class NavMenu extends Component {
               <a href="/silphleague">Silph League</a>
             </li>
             <li>
-              <a href="#0">Battle Frontier</a>
+              <a href="/frontier">Battle Frontier</a>
             </li>
             <li>
               <a href="/about">
