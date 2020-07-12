@@ -23,7 +23,7 @@ function TeamTour4() {
     <div class="wrapper">
       <div class="data">
         <div class="content">
-          <span class="author">Ongoing</span>
+          <span class="author">Finished</span>
           <h1 class="title"><a href="#0">Catacomb Cup Silph</a></h1>
           <p class="text">The Catacomb Cup - inspired by the mysteries that lie beneath the surface! By Silph Arena</p>
           <a href="https://discord.gg/SVwJFE5" target="_blank" rel="nofollow noopener noreferrer" class="button">Join</a>

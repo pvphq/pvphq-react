@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import NavMenu from "./components/Nav";
+import BFLB from "./components/LBGym";
 import About from "./basic/About";
 import Home from "./basic/Home";
 import Gyminfo from "./tom/Gyminfo";
@@ -15,6 +16,7 @@ function App() {
       <NavMenu />
       <Switch>
         <Route path="/about" component={About} />
+        <Route path="/bf/lb" component={BFLB} />
         <Route path="/gyms-info" component={Gyminfo} />
         <Route path="/frontier" component={BFinfo} />
         <Route path="/silphleague" component={SilphLeague} />
