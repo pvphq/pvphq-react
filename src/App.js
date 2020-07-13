@@ -16,7 +16,7 @@ function App() {
       <NavMenu />
       <Switch>
         <Route path="/about" component={About} />
-        <Route path="/bf/lb" component={BFLB} />
+        <Route path="/frontier/lb" component={BFLB} />
         <Route path="/gyms-info" component={Gyminfo} />
         <Route path="/frontier" component={BFinfo} />
         <Route path="/silphleague" component={SilphLeague} />

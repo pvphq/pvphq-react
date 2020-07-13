@@ -6,17 +6,12 @@ body {
 /*--------------------
 Leaderboard
 --------------------*/
-@media (max-width: 786px) {
-  .leaderboard {
-    max-width: 90%;
-  }
-}
 
 .leaderboard {
-  position: absolute;
-  top: 30%;
+  position: relative;
+  top: 100%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-160%, +5%);
   width: 325px;
   height: 308px;
   background: linear-gradient(to bottom, #3a404d, #181c26);
@@ -29,12 +24,11 @@ Leaderboard
     padding: 12px 13px 18px;
 
     & svg {
-      width: 25px;
-      height: 26px;
+      width: 25px !important;
+      height: 26px !important;
       position: relative;
       top: 3px;
       margin-right: 6px;
-      vertical-align: baseline;
     }
   }
 
@@ -49,6 +43,8 @@ Leaderboard
       counter-increment: leaderboard;
       padding: 18px 10px 18px 50px;
       cursor: pointer;
+      align-items: center;
+      justify-content: center;
       backface-visibility: hidden;
       transform: translateZ(0) scale(1, 1);
 
@@ -232,5 +228,30 @@ Leaderboard
 
   img {
     max-width: 100%;
+  }
+}
+
+@media (max-width: 786px) {
+  .leaderboard {
+    max-width: 90%;
+    position: relative;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, +5%);
+    height: 308px;
+    background: linear-gradient(to bottom, #3a404d, #181c26);
+    border-radius: 10px;
+    box-shadow: 0 7px 30px rgba(62, 9, 11, 0.3);
+  }
+}
+
+@media (min-width: 786px) {
+  .side {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-10%, +230%);
+    width: 625px;
+    font-size: larger;
   }
 }

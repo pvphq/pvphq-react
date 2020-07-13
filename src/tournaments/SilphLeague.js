@@ -20,7 +20,7 @@ function SilphLeague() {
 
       </div>
     </div>
-    <h1 className="heading">▹ TOURNAMENTS ◃</h1>
+    <h1 className="heading">⌘ TOURNAMENTS</h1>
     <div className="tourcard">
     <TeamTour4 />
     </div>

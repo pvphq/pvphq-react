@@ -12,77 +12,77 @@ function BFLB() {
             </svg> Frontier Leaderboard
         </h1>
   <ol>
-    <li>
-      <mark>Jerry Wood</mark>
-      <small>315</small>
+  <li>
+      <mark>Mumbaidos</mark>
+      <small>24/41</small>
     </li>
     <li>
-      <mark>Brandon Barnes</mark>
-      <small>301</small>
+      <mark>Bengaluru Big Barrels</mark>
+      <small>24/27</small>
     </li>
     <li>
-      <mark>Raymond Knight</mark>
-      <small>292</small>
+      <mark>Psystrikers Pondy</mark>
+      <small>17/30</small>
     </li>
     <li>
-      <mark>Trevor McCormick</mark>
-      <small>245</small>
+      <mark>Chennaizards</mark>
+      <small>11/21</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Toge-Pilani</mark>
+      <small>9/21</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Delhi Darumakas</mark>
+      <small>9/15</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Madrazards</mark>
+      <small>8/18</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Vizag Tor-ko-Elites</mark>
+      <small>6/15</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Mumbaikarps</mark>
+      <small>6/12</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Gurgaon Golems</mark>
+      <small>5/18</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Chandigarh Chargers</mark>
+      <small>5/14</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Bengaluru Big Oofs</mark>
+      <small>5/6</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Pune Samurotts</mark>
+      <small>5/6</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Ahmedabad Sudowarriors</mark>
+      <small>4/12</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Dharwad Dragonites</mark>
+      <small>2/6</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Thane Terrakions</mark>
+      <small>1/6</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Delhi Darmanitans</mark>
+      <small>0/0</small>
     </li>
     <li>
-      <mark>Andrew Fox</mark>
-      <small>203</small>
+      <mark>Pune Regigiants</mark>
+      <small>0/0</small>
     </li>
   </ol>
 </div>

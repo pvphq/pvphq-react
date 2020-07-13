@@ -18,7 +18,7 @@ function Gyminfo() {
 
       </div>
     </div>
-    <h1 className="heading">▹ GYMS ◃</h1>
+    <h1 className="heading">⌘ GYMS</h1>
     <div className="tourcard">
     <TeamTour />
     </div>
