@@ -14,7 +14,7 @@ function BFLB() {
   <ol>
   <li>
       <mark>Mumbaidos</mark>
-      <small>24/41</small>
+      <small>24/42</small>
     </li>
     <li>
       <mark>Bengaluru Big Barrels</mark>
