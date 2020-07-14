@@ -35,23 +35,23 @@ function BFinfo() {
   <ol>
   <li>
       <mark>Mumbaidos</mark>
-      <small>24/42</small>
+      <small>32/54</small>
     </li>
     <li>
       <mark>Bengaluru Big Barrels</mark>
-      <small>24/27</small>
-    </li>
-    <li>
-      <mark>Psystrikers Pondy</mark>
-      <small>17/30</small>
+      <small>29/42</small>
     </li>
     <li>
       <mark>Chennaizards</mark>
-      <small>11/21</small>
+      <small>29/42</small>
     </li>
     <li>
-      <mark>TogePilani</mark>
-      <small>9/21</small>
+      <mark>Psystrikers Pondy</mark>
+      <small>22/51</small>
+    </li>
+    <li>
+      <mark>Toge-pilani</mark>
+      <small>20/39</small>
     </li>
     </ol>
 </div>
