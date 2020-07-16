@@ -1,97 +1,102 @@
 import React from "react";
 import "../css/lb.scss";
 
-
 function BFLB() {
   return (
     <div>
-    <div class="leaderboard">
+      <div class="leaderboard">
         <h1>
-            <svg className="ico-cup">
+          <svg className="ico-cup">
             <use href="#cup"></use>
-            </svg> Frontier Leaderboard
+          </svg>{" "}
+          Frontier Leaderboard
         </h1>
-  <ol>
-  <li>
-      <mark>Psystrikers Pondy</mark>
-      <small>40/87</small>
-    </li>
-    <li>
-      <mark>Chennaizards</mark>
-      <small>35/57</small>
-    </li>
-    <li>
-      <mark>Bengaluru Big Barrels</mark>
-      <small>35/60</small>
-    </li>
-    <li>
-      <mark>Mumbaidos</mark>
-      <small>34/57</small>
-    </li>
-    <li>
-      <mark>Pune Regigiants</mark>
-      <small>31/51</small>
-    </li>
-    <li>
-      <mark>Mumbaikarps</mark>
-      <small>28/45</small>
-    </li>
-    <li>
-      <mark>Toge-pilani</mark>
-      <small>27/51</small>
-    </li>
-    <li>
-      <mark>Pune Samutotts</mark>
-      <small>24/33</small>
-    </li>
-    <li>
-      <mark>Bengaluru Big Oofs</mark>
-      <small>19/33</small>
-    </li>
-    <li>
-      <mark>Madrazards</mark>
-      <small>19/42</small>
-    </li>
-    <li>
-      <mark>Delhi Darumakas</mark>
-      <small>17/42</small>
-    </li>
-    <li>
-      <mark>Gurgaon Golems</mark>
-      <small>17/42</small>
-    </li>
-    <li>
-      <mark>Vizag Tor-ko-elitess</mark>
-      <small>15/39</small>
-    </li>
-    <li>
-      <mark>Chandigarh Chargers</mark>
-      <small>13/33</small>
-    </li>
-    <li>
-      <mark>Delhi Darmanitans</mark>
-      <small>10/18</small>
-    </li>
-    <li>
-      <mark>Thane Terrakions</mark>
-      <small>8/24</small>
-    </li>
-    <li>
-      <mark>Ahmedabad Sudowarriors</mark>
-      <small>6/18</small>
-    </li>
-    <li>
-      <mark>Dharwad Dragonites</mark>
-      <small>4/24</small>
-    </li>
-  </ol>
-</div>
+        <ol>
+          <li>
+            <mark>Mumbaidos</mark>
+            <small>44/75</small>
+          </li>
+          <li>
+            <mark>Pune Regigiants</mark>
+            <small>43/75</small>
+          </li>
+          <li>
+            <mark>Mumbaikarps</mark>
+            <small>42/63</small>
+          </li>
+          <li>
+            <mark>Bengaluru Big Barrels</mark>
+            <small>39/75</small>
+          </li>
+          <li>
+            <mark>Chennaizards</mark>
+            <small>35/57</small>
+          </li>
+          <li>
+            <mark>Madrazards</mark>
+            <small>32/66</small>
+          </li>
+          <li>
+            <mark>Pune Samutotts</mark>
+            <small>30/42</small>
+          </li>
+          <li>
+            <mark>Toge-pilani</mark>
+            <small>29/54</small>
+          </li>
+          <li>
+            <mark>Bengaluru Big Oofs</mark>
+            <small>25/48</small>
+          </li>
+          <li>
+            <mark>Chandigarh Chargers</mark>
+            <small>23/54</small>
+          </li>
+          <li>
+            <mark>Gurgaon Golems</mark>
+            <small>23/60</small>
+          </li>
+          <li>
+            <mark>Delhi Darumakas</mark>
+            <small>20/48</small>
+          </li>
+          <li>
+            <mark>Vizag Tor-ko-elites</mark>
+            <small>19/51</small>
+          </li>
+          <li>
+            <mark>Thane Terrakions</mark>
+            <small>17/29</small>
+          </li>
+          <li>
+            <mark>Delhi Darmanitans</mark>
+            <small>14/27</small>
+          </li>
+          <li>
+            <mark>Ahmedabad Sudowarriors</mark>
+            <small>9/27</small>
+          </li>
+          <li>
+            <mark>Dharwad Dragonites</mark>
+            <small>7/36</small>
+          </li>
+        </ol>
+      </div>
 
-
-<svg >
-  <symbol id="cup" x="0px" y="0px"
-	 width="25px" height="26px" viewBox="0 0 25 26" enable-background="new 0 0 25 26" space="preserve">
-<path fill="#F26856" d="M21.215,1.428c-0.744,0-1.438,0.213-2.024,0.579V0.865c0-0.478-0.394-0.865-0.88-0.865H6.69
+      <svg>
+        <symbol
+          id="cup"
+          x="0px"
+          y="0px"
+          width="25px"
+          height="26px"
+          viewBox="0 0 25 26"
+          enable-background="new 0 0 25 26"
+          space="preserve"
+        >
+          <path
+            fill="#F26856"
+            d="M21.215,1.428c-0.744,0-1.438,0.213-2.024,0.579V0.865c0-0.478-0.394-0.865-0.88-0.865H6.69
 	C6.204,0,5.81,0.387,5.81,0.865v1.142C5.224,1.641,4.53,1.428,3.785,1.428C1.698,1.428,0,3.097,0,5.148
 	C0,7.2,1.698,8.869,3.785,8.869h1.453c0.315,0,0.572,0.252,0.572,0.562c0,0.311-0.257,0.563-0.572,0.563
 	c-0.486,0-0.88,0.388-0.88,0.865c0,0.478,0.395,0.865,0.88,0.865c0.421,0,0.816-0.111,1.158-0.303
@@ -107,11 +112,10 @@ function BFLB() {
 	c0.33-0.865,0.479-1.723,0.545-2.327c0.207,0.021,0.416,0.033,0.627,0.033c0.211,0,0.42-0.013,0.627-0.033
 	C13.195,16.578,13.344,17.436,13.673,18.301z M12.5,14.276c-2.856,0-4.93-2.638-4.93-6.273V1.73h9.859v6.273
 	C17.43,11.638,15.357,14.276,12.5,14.276z M21.215,7.138h-1.452c-0.197,0-0.39,0.024-0.572,0.07v-2.06
-	c0-1.097,0.908-1.99,2.024-1.99c1.117,0,2.025,0.893,2.025,1.99C23.241,6.246,22.333,7.138,21.215,7.138z"/>
-      </symbol>
-</svg>
-
-
+	c0-1.097,0.908-1.99,2.024-1.99c1.117,0,2.025,0.893,2.025,1.99C23.241,6.246,22.333,7.138,21.215,7.138z"
+          />
+        </symbol>
+      </svg>
     </div>
   );
 }
