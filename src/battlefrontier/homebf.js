@@ -55,6 +55,10 @@ function BFinfo() {
             Frontier Top 5
           </h1>
           <ol>
+          <li>
+              <mark>Psystrikers Pondy</mark>
+              <small>51/105</small>
+            </li>
             <li>
               <mark>Mumbaidos</mark>
               <small>44/75</small>
@@ -70,10 +74,6 @@ function BFinfo() {
             <li>
               <mark>Bengaluru Big Barrels</mark>
               <small>39/75</small>
-            </li>
-            <li>
-              <mark>Chennaizards</mark>
-              <small>35/57</small>
             </li>
           </ol>
         </div>

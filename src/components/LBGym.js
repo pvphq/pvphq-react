@@ -12,6 +12,10 @@ function BFLB() {
           Frontier Leaderboard
         </h1>
         <ol>
+        <li>
+              <mark>Psystrikers Pondy</mark>
+              <small>51/105</small>
+            </li>
           <li>
             <mark>Mumbaidos</mark>
             <small>44/75</small>
