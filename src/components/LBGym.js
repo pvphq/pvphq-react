@@ -13,77 +13,77 @@ function BFLB() {
         </h1>
         <ol>
         <li>
-              <mark>Psystrikers Pondy</mark>
-              <small>51/105</small>
-            </li>
-          <li>
-            <mark>Mumbaidos</mark>
-            <small>44/75</small>
-          </li>
-          <li>
-            <mark>Pune Regigiants</mark>
-            <small>43/75</small>
-          </li>
-          <li>
-            <mark>Mumbaikarps</mark>
-            <small>42/63</small>
-          </li>
-          <li>
-            <mark>Bengaluru Big Barrels</mark>
-            <small>39/75</small>
-          </li>
-          <li>
-            <mark>Chennaizards</mark>
-            <small>35/57</small>
-          </li>
-          <li>
-            <mark>Madrazards</mark>
-            <small>32/66</small>
-          </li>
-          <li>
-            <mark>Pune Samutotts</mark>
-            <small>30/42</small>
-          </li>
-          <li>
-            <mark>Toge-pilani</mark>
-            <small>29/54</small>
-          </li>
-          <li>
-            <mark>Bengaluru Big Oofs</mark>
-            <small>25/48</small>
-          </li>
-          <li>
-            <mark>Chandigarh Chargers</mark>
-            <small>23/54</small>
-          </li>
-          <li>
-            <mark>Gurgaon Golems</mark>
-            <small>23/60</small>
-          </li>
-          <li>
-            <mark>Delhi Darumakas</mark>
-            <small>20/48</small>
-          </li>
-          <li>
-            <mark>Vizag Tor-ko-elites</mark>
-            <small>19/51</small>
-          </li>
-          <li>
-            <mark>Thane Terrakions</mark>
-            <small>17/29</small>
-          </li>
-          <li>
-            <mark>Delhi Darmanitans</mark>
-            <small>14/27</small>
-          </li>
-          <li>
-            <mark>Ahmedabad Sudowarriors</mark>
-            <small>9/27</small>
-          </li>
-          <li>
-            <mark>Dharwad Dragonites</mark>
-            <small>7/36</small>
-          </li>
+      <mark>Mumbaikarps</mark>
+      <small>53/78</small>
+    </li>
+    <li>
+      <mark>Psystrikers Pondy</mark>
+      <small>53/108</small>
+    </li>
+    <li>
+      <mark>Mumbaidos</mark>
+      <small>52/84</small>
+    </li>
+    <li>
+      <mark>Pune Regigiants</mark>
+      <small>52/90</small>
+    </li>
+    <li>
+      <mark>Bengaluru Big Barrels</mark>
+      <small>48/87</small>
+    </li>
+    <li>
+      <mark>Chennaizards</mark>
+      <small>47/78</small>
+    </li>
+    <li>
+      <mark>Pune Samurotts</mark>
+      <small>39/60</small>
+    </li>
+    <li>
+      <mark>Madrazards</mark>
+      <small>37/78</small>
+    </li>
+    <li>
+      <mark>Bengaluru Big Oofs</mark>
+      <small>34/69</small>
+    </li>
+    <li>
+      <mark>Toge-pilani</mark>
+      <small>32/66</small>
+    </li>
+    <li>
+      <mark>Vizag-tor-ko-elites</mark>
+      <small>32/69</small>
+    </li>
+    <li>
+      <mark>Delhi Darumakas</mark>
+      <small>31/66</small>
+    </li>
+    <li>
+      <mark>Chandigarh Chargerss</mark>
+      <small>29/72</small>
+    </li>
+    <li>
+      <mark>Gurgaon Golems</mark>
+      <small>28/72</small>
+    </li>
+    <li>
+      <mark>Delhi Darmanitans</mark>
+      <small>24/48</small>
+    </li>
+    <li>
+      <mark>Thane Terrakions</mark>
+      <small>20/57</small>
+    </li>
+    <li>
+      <mark>Ahmedabad Sudowarriors</mark>
+      <small>16/36</small>
+    </li>
+    <li>
+      <mark>Dharwad Dragonites</mark>
+      <small>10/42</small>
+    </li>
         </ol>
       </div>
 

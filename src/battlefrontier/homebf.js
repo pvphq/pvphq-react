@@ -56,25 +56,25 @@ function BFinfo() {
           </h1>
           <ol>
           <li>
-              <mark>Psystrikers Pondy</mark>
-              <small>51/105</small>
-            </li>
-            <li>
-              <mark>Mumbaidos</mark>
-              <small>44/75</small>
-            </li>
-            <li>
-              <mark>Pune Regigiants</mark>
-              <small>43/75</small>
-            </li>
-            <li>
-              <mark>Mumbaikarps</mark>
-              <small>42/63</small>
-            </li>
-            <li>
-              <mark>Bengaluru Big Barrels</mark>
-              <small>39/75</small>
-            </li>
+      <mark>Mumbaikarps</mark>
+      <small>53/78</small>
+    </li>
+    <li>
+      <mark>Psystrikers Pondy</mark>
+      <small>53/108</small>
+    </li>
+    <li>
+      <mark>Mumbaidos</mark>
+      <small>52/84</small>
+    </li>
+    <li>
+      <mark>Pune Regigiants</mark>
+      <small>52/90</small>
+    </li>
+    <li>
+      <mark>Bengaluru Big Barrels</mark>
+      <small>48/87</small>
+    </li>
           </ol>
         </div>
       </div>
