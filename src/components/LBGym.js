@@ -13,68 +13,68 @@ function BFLB() {
         </h1>
         <ol>
           <li>
-            <mark>Mumbaikarps</mark>
-            <small>61/90</small>
-          </li>
-          <li>
             <mark>Pune Samurotts</mark>
-            <small>55/87</small>
+            <small>72/108</small>
           </li>
           <li>
-            <mark>Pune Regigiants</mark>
-            <small>54/93</small>
-          </li>
-          <li>
-            <mark>Psystrikers Pondy</mark>
-            <small>54/111</small>
-          </li>
-          <li>
-            <mark>Mumbaidos</mark>
-            <small>53/87</small>
-          </li>
-          <li>
-            <mark>Bengaluru Big Barrels</mark>
-            <small>53/102</small>
+            <mark>Mumbaikarps</mark>
+            <small>65/96</small>
           </li>
           <li>
             <mark>Chennaizards</mark>
-            <small>52/84</small>
+            <small>61/99</small>
+          </li>
+          <li>
+            <mark>Mumbaidos</mark>
+            <small>60/99</small>
+          </li>
+          <li>
+            <mark>Psystrikers Pondy</mark>
+            <small>58/117</small>
+          </li>
+          <li>
+            <mark>Pune Regigiants</mark>
+            <small>56/99</small>
+          </li>
+          <li>
+            <mark>Bengaluru Big Barrels</mark>
+            <small>55/105</small>
           </li>
           <li>
             <mark>Madrazards</mark>
-            <small>45/93</small>
+            <small>52/102</small>
           </li>
           <li>
             <mark>Bengaluru Big Oofs</mark>
-            <small>39/81</small>
-          </li>
-          <li>
-            <mark>Gurgaon Golems</mark>
-            <small>38/90</small>
-          </li>
-          <li>
-            <mark>Vizag-tor-ko-elites</mark>
-            <small>37/75</small>
+            <small>49/99</small>
           </li>
           <li>
             <mark>Delhi Darumakas</mark>
-            <small>36/75</small>
+            <small>46/96</small>
+          </li>
+          <li>
+            <mark>Gurgaon Golems</mark>
+            <small>43/111</small>
           </li>
           <li>
             <mark>Toge-pilani</mark>
-            <small>35/75</small>
+            <small>42/90</small>
+          </li>
+          <li>
+            <mark>Vizag Tor-ko-elites</mark>
+            <small>40/87</small>
           </li>
           <li>
             <mark>Delhi Darmanitans</mark>
-            <small>33/69</small>
+            <small>34/75</small>
           </li>
           <li>
             <mark>Chandigarh Chargers</mark>
-            <small>31/81</small>
+            <small>33/87</small>
           </li>
           <li>
             <mark>Thane Terrakions</mark>
-            <small>28/72</small>
+            <small>30/81</small>
           </li>
           <li>
             <mark>Ahmedabad Sudowarriors</mark>
@@ -82,7 +82,7 @@ function BFLB() {
           </li>
           <li>
             <mark>Dharwad Dragonites</mark>
-            <small>11/54</small>
+            <small>16/72</small>
           </li>
         </ol>
       </div>

@@ -55,26 +55,26 @@ function BFinfo() {
             Frontier Top 5
           </h1>
           <ol>
-            <li>
-              <mark>Mumbaikarps</mark>
-              <small>61/90</small>
-            </li>
-            <li>
-              <mark>Pune Samurotts</mark>
-              <small>55/87</small>
-            </li>
-            <li>
-              <mark>Pune Regigiants</mark>
-              <small>54/93</small>
-            </li>
-            <li>
-              <mark>Psystrikers Pondy</mark>
-              <small>54/111</small>
-            </li>
-            <li>
-              <mark>Mumbaidos</mark>
-              <small>53/87</small>
-            </li>
+          <li>
+            <mark>Pune Samurotts</mark>
+            <small>72/108</small>
+          </li>
+          <li>
+            <mark>Mumbaikarps</mark>
+            <small>65/96</small>
+          </li>
+          <li>
+            <mark>Chennaizards</mark>
+            <small>61/99</small>
+          </li>
+          <li>
+            <mark>Mumbaidos</mark>
+            <small>60/99</small>
+          </li>
+          <li>
+            <mark>Psystrikers Pondy</mark>
+            <small>58/117</small>
+          </li>
           </ol>
         </div>
       </div>
