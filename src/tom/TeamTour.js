@@ -7,8 +7,8 @@ function TeamTour() {
   return (
     <div>
       <div class="row">
-  <div class="example-2 card fortgym">
-    <div class="wrapper">
+  <div class="example-2 cardt fortgym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Pune City Gym</span>
@@ -19,8 +19,8 @@ function TeamTour() {
       </div>
     </div>
   </div>
-  <div class="example-2 card pyrogym">
-    <div class="wrapper">
+  <div class="example-2 cardt pyrogym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Delhi City Gym</span>
@@ -31,8 +31,8 @@ function TeamTour() {
       </div>
     </div>
   </div>
-  <div class="example-2 card sinistergym">
-    <div class="wrapper">
+  <div class="example-2 cardt sinistergym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Mumbai City Gym</span>
@@ -43,8 +43,8 @@ function TeamTour() {
       </div>
     </div>
   </div>
-  <div class="example-2 card eclipsegym">
-    <div class="wrapper">
+  <div class="example-2 cardt eclipsegym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Kolkata City Gym</span>
@@ -57,8 +57,8 @@ function TeamTour() {
   </div>
   </div>
   <div class="row">
-  <div class="example-2 card fluidmetgym">
-    <div class="wrapper">
+  <div class="example-2 cardt fluidmetgym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Ahmedabad City Gym</span>
@@ -69,8 +69,8 @@ function TeamTour() {
       </div>
     </div>
   </div>
-  <div class="example-2 card skyfortgym">
-    <div class="wrapper">
+  <div class="example-2 cardt skyfortgym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Dehradun City Gym</span>
@@ -81,8 +81,8 @@ function TeamTour() {
       </div>
     </div>
   </div>
-  <div class="example-2 card toxtricitygym">
-    <div class="wrapper">
+  <div class="example-2 cardt toxtricitygym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Bengaluru City Gym</span>
@@ -93,8 +93,8 @@ function TeamTour() {
       </div>
     </div>
   </div>
-  <div class="example-2 card alamosgym">
-    <div class="wrapper">
+  <div class="example-2 cardt alamosgym">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Chennai City Gym</span>

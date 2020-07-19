@@ -31,7 +31,7 @@ h1 {
 }
 
 // Base styles
-.card {
+.cardt {
   padding: 0 1rem;
   width: 90%;
   margin-top: 10px;
@@ -54,12 +54,13 @@ h1 {
       transform: translate(-50%, 0);
     }
   }
-  .wrapper {
+  .wrappert {
     background-color: $white;
     border-radius: 20px;
     min-height: 400px;
     position: relative;
     overflow: hidden;
+    padding: 0;
     box-shadow: 0 19px 38px rgba($black, 0.3), 0 15px 12px rgba($black, 0.2);
     &:hover {
       .data {
@@ -98,7 +99,7 @@ h1 {
 }
 
 .pyrogym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.74)),
       url("/img/gyms/DelhiCity.png");
     background-position: center;
@@ -109,7 +110,7 @@ h1 {
 }
 
 .fortgym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.767)),
       url("/img/gyms/PuneCity.png");
     background-position: center;
@@ -120,7 +121,7 @@ h1 {
 }
 
 .sinistergym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/gyms/MumbaiCity.png");
     background-position: center;
@@ -131,7 +132,7 @@ h1 {
 }
 
 .eclipsegym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/gyms/KolkataCity.png");
     background-position: center;
@@ -142,7 +143,7 @@ h1 {
 }
 
 .fluidmetgym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/gyms/AhmedabadCity.png");
     background-position: center;
@@ -153,7 +154,7 @@ h1 {
 }
 
 .skyfortgym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/gyms/DehradunCity.png");
     background-position: center;
@@ -164,7 +165,7 @@ h1 {
 }
 
 .alamosgym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/gyms/ChennaiCity.png");
     background-position: center;
@@ -175,7 +176,7 @@ h1 {
 }
 
 .toxtricitygym {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/gyms/BengaluruCity.png");
     background-position: center;
@@ -186,7 +187,7 @@ h1 {
 }
 
 .battlefrontier {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/silph/4.png");
     background-position: center;
@@ -197,7 +198,7 @@ h1 {
 }
 
 .catacomb {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/silph/2.png");
     background-position: center;
@@ -208,7 +209,7 @@ h1 {
 }
 
 .aceelite {
-  .wrapper {
+  .wrappert {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)),
       url("/img/silph/3.png");
     background-position: center;
@@ -219,7 +220,7 @@ h1 {
 }
 // Second example styles
 .example-2 {
-  .wrapper {
+  .wrappert {
     &:hover {
       .menu-content {
         span {
@@ -287,8 +288,9 @@ h1 {
 }
 
 @media (min-width: 786px) {
-  .card {
+  .cardt {
     width: 25%;
+    min-width: 300px;
   }
   .row {
     display: flex;

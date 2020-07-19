@@ -7,8 +7,8 @@ function TeamTour4() {
   return (
     <div>
         <div class="row">
-  <div class="example-2 card battlefrontier">
-    <div class="wrapper">
+  <div class="example-2 cardtget battlefrontier">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Upcoming July 12</span>
@@ -19,8 +19,8 @@ function TeamTour4() {
       </div>
     </div>
   </div>
-  <div class="example-2 card catacomb">
-    <div class="wrapper">
+  <div class="example-2 cardt catacomb">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Finished</span>
@@ -31,8 +31,8 @@ function TeamTour4() {
       </div>
     </div>
   </div>
-  <div class="example-2 card aceelite">
-    <div class="wrapper">
+  <div class="example-2 cardt aceelite">
+    <div class="wrappert">
       <div class="data">
         <div class="content">
           <span class="author">Completed!</span>
