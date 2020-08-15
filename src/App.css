@@ -21,7 +21,7 @@ a {
 .home-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("/img/4.jpg") !important;
-  height: 98vh;
+  height: 90vh;
   overflow-x: hidden;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,63 +31,117 @@ a {
   margin: 1vh;
 }
 
-.textin {
-  padding: 10px 30px 20px 30px;
-  text-align: center;
-  font-size: 18px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 100;
-}
-.texttop {
-  font-size: larger;
-}
-.hometext {
-  text-align: center;
-  font-size: 18px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 100;
-  padding-top: 20px;
-}
-.homeimg {
-  position: relative;
-  top: 100%;
-  left: 50%;
-  transform: translate(-160%, +5%);
-  width: 325px;
-  height: 308px;
-  max-width: 90%;
-}
-@media (max-width: 786px) {
-  .homeimg {
-    max-width: 90%;
-    position: relative;
-    top: 100%;
-    left: 50%;
-    transform: translate(-50%, +5%);
-    overflow: hidden;
-  }
-  .hometext {
-    padding-right: 20px;
-    padding-left: 20px;
-    overflow: hidden;
-  }
-}
 .home-text {
   text-align: center;
   position: absolute;
-  top: 40%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: rgb(235, 235, 235);
-  font-family: "Noto Sans JP", Arial, Helvetica, sans-serif;
-  font-weight: 500;
-  font-size: 18px;
+
+  font-size: 17px;
+  width: 90% !important;
 }
 .home-text a {
   margin-top: 50px;
 }
 button {
   margin: 10px;
+}
+
+.heading {
+  font-size: 35px;
+  color: #eeeeee;
+  padding: 5px;
+  margin-top: 5px;
+  font-family: "Alata", sans-serif;
+  background-color: #393e46;
+  box-shadow: 7px 0px 10px #13161a;
+}
+
+@media (max-width: 786px) {
+  .heading {
+    font-size: 25px;
+  }
+}
+.dateofpost {
+  font-size: 25px;
+  text-align: start;
+  color: #c5c5c5;
+  padding: 2px;
+  padding-left: 20px;
+  margin-top: 5px;
+  font-family: "Alata", sans-serif;
+  background-color: #393e46;
+}
+
+@media (max-width: 786px) {
+  .dateofpost {
+    font-size: 17px;
+  }
+}
+
+.format-head {
+  font-size: 25px;
+  font-weight: 700;
+  color: #00adb5;
+  padding: 7px;
+  padding-left: 20px;
+  margin-top: 5px;
+  font-family: "Alata", sans-serif;
+  background-color: #393e46;
+}
+
+@media (max-width: 786px) {
+  .format-head {
+    font-size: 20px;
+  }
+}
+
+.post {
+  height: 40vh;
+}
+
+@media (max-width: 786px) {
+  .post {
+    height: 30vh;
+    font-size: 15px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("/img/4.jpg") !important;
+  }
+}
+
+.format-pvp {
+  height: 50vh;
+}
+
+@media (max-width: 786px) {
+  .format-pvp {
+    height: 50vh;
+    font-size: 15px;
+  }
+}
+
+.MoreButton {
+  padding: 5px 25px 5px 25px;
+  position: relative;
+  top: 75%;
+}
+
+.MoreButtonFormat {
+  padding: 5px 25px 5px 25px;
+  position: relative;
+  top: 85%;
+}
+
+.footer {
+  height: 15vh;
+  background-color: #393e46;
+}
+.texttop {
+  font-size: larger;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
 }
 
 .gyminfo-image {
@@ -139,20 +193,6 @@ button {
   font-family: "Noto Sans JP", Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 18px;
-}
-
-.heading {
-  font-size: 35px;
-  font-weight: 600;
-  color: beige;
-  padding: 10px;
-  padding-top: 20px;
-}
-
-@media (max-width: 786px) {
-  .heading {
-    font-size: 20px;
-  }
 }
 
 .bf-image {
