@@ -54,6 +54,7 @@ button {
   color: #eeeeee;
   padding: 5px;
   margin-top: 5px;
+  text-shadow: 2px 2px 4px #1f1f1f;
   font-family: "Alata", sans-serif;
   background-color: #393e46;
   box-shadow: 7px 0px 10px #13161a;
@@ -65,9 +66,10 @@ button {
   }
 }
 .dateofpost {
-  font-size: 25px;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #1f1f1f;
   text-align: start;
-  color: #c5c5c5;
+  color: #e0e0e0;
   padding: 2px;
   padding-left: 20px;
   margin-top: 5px;
@@ -84,6 +86,7 @@ button {
 .format-head {
   font-size: 25px;
   font-weight: 700;
+  text-shadow: 2px 2px 4px #1f1f1f;
   color: #00adb5;
   padding: 7px;
   padding-left: 20px;
@@ -99,20 +102,38 @@ button {
 }
 
 .post {
-  height: 40vh;
+  height: 30vh;
+  overflow-x: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
+.post3 {
+  background-image: url("/img/Scoville.png");
+}
+.post1 {
+  background-image: url("/img/TOMF1.png");
+}
+.post2 {
+  background-image: url("/img/TOMB1.png");
+}
 @media (max-width: 786px) {
   .post {
-    height: 30vh;
     font-size: 15px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("/img/4.jpg") !important;
   }
 }
 
 .format-pvp {
   height: 50vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/img/TOMB2.png") !important;
+  overflow-x: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 @media (max-width: 786px) {
@@ -125,25 +146,32 @@ button {
 .MoreButton {
   padding: 5px 25px 5px 25px;
   position: relative;
-  top: 75%;
+  top: 80%;
 }
 
 .MoreButtonFormat {
   padding: 5px 25px 5px 25px;
   position: relative;
-  top: 85%;
 }
-
+.format-text {
+  color: #f0f0f0;
+  padding: 7px;
+  font-size: 15.5px;
+  font-family: "Poppins", sans-serif;
+}
 .footer {
-  height: 15vh;
+  height: 10vh;
   background-color: #393e46;
+  color: #b6b6b6;
+  font-size: 13px;
+  padding: 10px;
+  padding-top: 10px;
 }
 .texttop {
   font-size: larger;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
-
 .gyminfo-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("/img/1.jpg");
@@ -205,4 +233,26 @@ button {
   position: relative;
   border-radius: 20px;
   margin: 1vh;
+}
+
+@media (min-width: 786px) {
+  .postBoxF {
+    width: 32.5%;
+    padding-bottom: 5px;
+  }
+  .postBox {
+    width: 24.5%;
+  }
+
+  .MoreButton {
+    top: 80%;
+  }
+  .format-text {
+    font-size: 15.5px;
+  }
+  .row-format {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
 }
