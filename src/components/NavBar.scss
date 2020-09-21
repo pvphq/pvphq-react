@@ -1,9 +1,9 @@
 /*  COLORS
 ========================================== */
-$black: #000000;
-$white: #ffffff;
-$gray: #2a2a2a;
-$gold: #7fafb7;
+$black: hsl(0, 0%, 0%);
+$white: #e1ffc2;
+$gray: #092532;
+$gold: #89c9b8;
 
 /*  FONTS
 ========================================== */
@@ -223,9 +223,9 @@ nav {
   top: 0;
   right: 0;
   height: 100%;
-  max-width: 515px;
+  max-width: 615px;
   width: 100%;
-  padding: 100px 10px 60px 40px;
+  padding: 80px 10px 60px 40px;
   overflow-y: auto;
   @include transform(translateX(100%));
   @include transition(transform 0.55s cubic-bezier(0.785, 0.135, 0.15, 0.86));
@@ -257,14 +257,14 @@ nav {
   }
 
   @media (min-width: 667px) {
-    padding: 120px 90px 70px 90px;
+    padding: 50px 90px 70px 90px;
   }
 
   ul.main {
     list-style-type: none;
 
     li {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       @include transform(translateX(40px));
       opacity: 0;
       @include transition(all 0.3s ease);
@@ -297,14 +297,14 @@ nav {
   }
 
   .about {
-    margin-top: 40px;
+    margin-top: 20px;
     @include transform(translateY(30px));
     opacity: 0;
     @include transition(all 0.4s ease);
 
     p {
       color: $white;
-      font-family: $spectral;
+      font-family: $raleway;
       font-size: 1.05rem;
       letter-spacing: 0.5px;
       line-height: 170%;
@@ -312,7 +312,7 @@ nav {
   }
 
   .social {
-    margin-top: 40px;
+    margin-top: 20px;
     position: relative;
     padding-bottom: 30px;
     @include transform(translateY(30px));

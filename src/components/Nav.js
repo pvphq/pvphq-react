@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import { findDOMNode } from "react-dom";
-import "../css/NavBar.scss";
+import "./NavBar.scss";
 
 class NavMenu extends Component {
   handleToggle = () => {
@@ -25,13 +25,18 @@ class NavMenu extends Component {
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/gyms-info">Gym League</a>
+              <a href="/gyms-info">Tower Of Mastery</a>
             </li>
             <li>
-              <a href="/silphleague">Silph League</a>
+              <a href="/silphleague">Battle Frontier</a>
             </li>
             <li>
-              <a href="/frontier">Battle Frontier</a>
+              <a href="/frontier">Silph</a>
+            </li>
+            <li>
+              <a href="/about">
+                About
+              </a>
             </li>
             <li>
               <a href="/about">
@@ -40,15 +45,15 @@ class NavMenu extends Component {
             </li>
           </ul>
 
-      {/*  <div class="about">
+        <div class="about">
             <p>
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-              commodo ligula eget dolor. Aenean massa.
+              PvP HQ is a Worldwide Pokémon GO PvP Discord Server based in India. We host Tower of Mastery, Silph Arena and many other Tournament Formats
             </p>
-          </div> */} 
+          </div> 
 
           <div class="social">
-            <a href="#0" target="_blank">
+            <a href="https://twitter.com/pvphqindia" target="_blank"
+                rel="nofollow noopener noreferrer">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xlink="http://www.w3.org/1999/xlink"
@@ -63,7 +68,8 @@ class NavMenu extends Component {
                 </g>
               </svg>
             </a>
-            <a href="#0" target="_blank">
+            <a href="https://www.instagram.com/pvphq/" target="_blank"
+                rel="nofollow noopener noreferrer">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xlink="http://www.w3.org/1999/xlink"

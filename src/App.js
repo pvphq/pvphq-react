@@ -2,7 +2,8 @@ import React from "react";
 import "./App.css";
 import NavMenu from "./components/Nav";
 import About from "./basic/About";
-import Home from "./basic/Home";
+import Home from './components/pages/Home';
+
 import Gyminfo from "./tom/Gyminfo";
 import SilphLeague from "./tournaments/SilphLeague";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";

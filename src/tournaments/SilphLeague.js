@@ -1,7 +1,6 @@
 import React from "react";
 import TeamTour4 from "../tournaments/TeamTour4.js";
 import "../App.css";
-import "../css/Button.scss";
 
 
 function SilphLeague() {

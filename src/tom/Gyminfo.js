@@ -1,7 +1,6 @@
 import React from "react";
 import TeamTour from "./TeamTour.js";
 import "../App.css";
-import "../css/Button.scss";
 
 
 function Gyminfo() {
