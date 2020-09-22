@@ -1,5 +1,5 @@
 :root {
-  --primary: #e1ffc2;
+  --primary: #00adb5;
 }
 
 .btn {
@@ -12,13 +12,13 @@
 
 .btn--primary {
   background-color: var(--primary);
-  color: #242424;
+  color: #222831;
   border: 1px solid var(--primary);
 }
 
 .btn--outline {
   background-color: transparent;
-  color: #e1ffc2;
+  color: #00adb5;
   padding: 8px 20px;
   border: 1px solid var(--primary);
   transition: all 0.3s ease-out;
@@ -37,7 +37,7 @@
 .btn--large:hover,
 .btn--medium:hover {
   transition: all 0.3s ease-out;
-  background: #e1ffc2;
-  color: #242424;
+  background: #00adb5;
+  color: #222831;
   transition: 250ms;
 }

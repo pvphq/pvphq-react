@@ -28,10 +28,10 @@ class NavMenu extends Component {
               <a href="/gyms-info">Tower Of Mastery</a>
             </li>
             <li>
-              <a href="/silphleague">Battle Frontier</a>
+              <a href="/silphleague">Tournaments</a>
             </li>
             <li>
-              <a href="/frontier">Silph</a>
+              <a href="/frontier">Events</a>
             </li>
             <li>
               <a href="/about">
@@ -40,14 +40,14 @@ class NavMenu extends Component {
             </li>
             <li>
               <a href="/about">
-                About
+                Sign In
               </a>
             </li>
           </ul>
 
         <div class="about">
             <p>
-              PvP HQ is a Worldwide Pokémon GO PvP Discord Server based in India. We host Tower of Mastery, Silph Arena and many other Tournament Formats
+              PvP HQ is a Worldwide Pokémon GO PvP Discord Server based in India. We host Tower of Mastery, Silph Arena and many other Tournament Formats.
             </p>
           </div> 
 
