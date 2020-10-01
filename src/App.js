@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
 import NavMenu from "./components/Nav";
-import About from "./basic/About";
-import Home from './components/pages/Home';
+import Home from "./components/pages/Home";
+import Rules from "./components/pages/Rules";
 
 import Gyminfo from "./tom/Gyminfo";
 import SilphLeague from "./tournaments/SilphLeague";
@@ -12,14 +12,14 @@ function App() {
   return (
     <Router>
       <div className="App">
-      <NavMenu />
-      <Switch>
-        <Route path="/about" component={About} />
-        <Route path="/gyms-info" component={Gyminfo} />
-        <Route path="/silphleague" component={SilphLeague} />
-        <Route path="/" component={Home} />
-      </Switch>
-    </div>
+        <NavMenu />
+        <Switch>
+          <Route path="/rules" component={Rules} />
+          <Route path="/gyms-info" component={Gyminfo} />
+          <Route path="/silphleague" component={SilphLeague} />
+          <Route path="/" component={Home} />
+        </Switch>
+      </div>
     </Router>
   );
 }
