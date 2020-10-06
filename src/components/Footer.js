@@ -30,7 +30,7 @@ function Footer() {
             <h2>About</h2>
             <Link to="/sign-up">About Us</Link>
             <Link to="/">Hall of Fame</Link>
-            <Link to="/">Rules & FAQs</Link>
+            <Link to="/rules">Rules & FAQs</Link>
           </div>
           <div class="footer-link-items">
             <h2>Updates</h2>
@@ -47,17 +47,29 @@ function Footer() {
           </div>
           <div class="footer-link-items">
             <h2>Socials</h2>
-            <a href="https://www.instagram.com/pvphq/" target="_blank"
-                rel="nofollow noopener noreferrer">Instagram</a>
-            <a href="https://twitter.com/pvphqindia" target="_blank"
-                rel="nofollow noopener noreferrer">Twitter</a>
+            <a
+              href="https://www.instagram.com/pvphq/"
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+            >
+              Instagram
+            </a>
+            <a
+              href="https://twitter.com/pvphqindia"
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+            >
+              Twitter
+            </a>
           </div>
         </div>
       </div>
       <section class="social-media">
         <div class="social-media-wrap">
-          
-          <small class="website-rights">©2020 by PvP HQ <br/>All Rights Reserved By Their Respective Owners.</small>
+          <small class="website-rights">
+            ©2020 by PvP HQ <br />
+            All Rights Reserved By Their Respective Owners.
+          </small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"

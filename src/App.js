@@ -3,7 +3,6 @@ import "./App.css";
 import NavMenu from "./components/Nav";
 import Home from "./components/pages/Home";
 import Rules from "./components/pages/Rules";
-
 import Gyminfo from "./tom/Gyminfo";
 import SilphLeague from "./tournaments/SilphLeague";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";

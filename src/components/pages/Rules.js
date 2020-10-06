@@ -6,7 +6,7 @@ function Rules() {
   return (
     <div>
       <div>
-        <img src="/img/logorule.png"></img>
+        <img src="/img/logorule.png" alt="HQ Logo"></img>
       </div>
       <div className="rule-heading">
         <h1>PVP HEADQUARTERS</h1>
