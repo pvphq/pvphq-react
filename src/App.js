@@ -4,7 +4,6 @@ import NavMenu from "./components/Nav";
 import Home from "./components/pages/Home";
 import Rules from "./components/pages/Rules";
 import Gyminfo from "./tom/Gyminfo";
-import SilphLeague from "./tournaments/SilphLeague";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -14,8 +13,7 @@ function App() {
         <NavMenu />
         <Switch>
           <Route path="/rules" component={Rules} />
-          <Route path="/gyms-info" component={Gyminfo} />
-          <Route path="/silphleague" component={SilphLeague} />
+          <Route path="/tom" component={Gyminfo} />
           <Route path="/" component={Home} />
         </Switch>
       </div>

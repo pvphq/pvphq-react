@@ -10,130 +10,65 @@ body {
   max-width: 100%;
   background-color: #222831;
   overflow-x: hidden;
+  text-align: center;
 }
 
 a {
   color: rgb(0, 195, 255);
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #00adb5;
 }
 i {
   padding-right: 8px;
 }
-.App {
-  text-align: center;
-}
 
-.home-block {
-  margin: 10px 2rem 2rem 2rem;
-  height: fit-content;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  align-items: center;
-}
-
-.block-title {
-  height: 35px;
-  width: 100%;
-  background-color: #393e46;
-}
-.block-title p {
-  padding-top: 7px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #00adb5;
-  font-weight: 600;
-}
-
-@media screen and (max-width: 820px) {
-  .home-block {
-    margin: 5px;
-  }
-  .block-title {
-    height: 50px;
-  }
-  .block-title p {
-    font-size: 20px;
-    padding-top: 7px;
-  }
-}
-
-.home-event {
-  height: 30vh;
-  background-color: #393e46;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.home-event-text {
+.heading h1 {
+  margin-top: 20px;
+  font-size: 75px;
+  margin-left: 9rem;
+  text-align: left;
   color: #eeeeee;
-  opacity: 0.5;
-  font-size: x-large;
-  font-style: oblique;
-  text-align: center;
-  padding-top: 12vh;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
 }
 
-@media screen and (max-width: 820px) {
-  .home-event {
-    height: 20vh;
-  }
-  .home-event-text {
-    padding-top: 8vh;
-  }
-}
-button {
-  margin: 10px;
-}
-
-@media (min-width: 786px) {
-  .postBoxF {
-    width: 32.5%;
-    padding-bottom: 5px;
-  }
-  .postBox {
-    width: 24.5%;
-  }
-
-  .MoreButton {
-    top: 80%;
-  }
-  .format-text {
-    font-size: 15.5px;
-  }
-  .row-format {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-  }
-}
-
-.rule-heading h1 {
-  font-size: 30px;
+.heading p {
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
   color: #eeeeee;
-  font-family: "Josefin Sans", sans-serif;
+  padding: 0 8rem 0 9rem;
+  text-align: left;
 }
 
-.rule-heading p {
-  font-size: 16px;
-  color: #eeeeee;
-  padding: 0 10rem 0 10rem;
+.formats {
+  margin: 0 7rem 0 7rem;
 }
 @media screen and (max-width: 820px) {
-  .rule-heading p {
+  .heading p {
     padding: 0 20px 0 20px;
+    font-family: "Lato", sans-serif;
+  }
+  .formats {
+    margin: 0 20px 0 20px;
   }
 }
 
-.rule-heading h3 {
+.heading h3 {
   font-family: "Josefin Sans", sans-serif;
   font-size: 35px;
   color: #00adb5;
 }
 
 @media (max-width: 786px) {
-  .rule-heading h1 {
-    font-size: 23px;
+  .heading h1 {
+    margin-left: 20px;
+    align-items: center;
+    font-size: 40px;
   }
-  .rule-heading h3 {
+  .heading h3 {
     font-size: 28px;
   }
 }
