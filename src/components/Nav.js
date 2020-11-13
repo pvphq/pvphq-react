@@ -34,7 +34,7 @@ class NavMenu extends Component {
               <a href="/frontier">Events</a>
             </li>
             <li>
-              <a href="/about">
+              <a href="/about-us">
                 About
               </a>
             </li>

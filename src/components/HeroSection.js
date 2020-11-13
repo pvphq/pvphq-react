@@ -10,7 +10,7 @@ function HeroSection() {
             <img src="../img/logo.png" alt="" />
           </h1>
       <p>Welcome to the PvP Headquarters:</p>
-      <div className="hero-btns">
+      <div className="button-home">
       <a
                 href="https://discord.gg/SVwJFE5"
                 target="_blank"
